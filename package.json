@@ -1,0 +1,19 @@
+{
+  "name": "validate-pin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CEED-2021/validate-pin.git",
+  "author": "Alvaro Maceda <alvaro@alvaromaceda.es>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
